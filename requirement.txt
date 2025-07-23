@@ -1,0 +1,6 @@
+%%writefile requirements.txt
+ultralytics
+streamlit
+opencv-python
+numpy
+Pillow
